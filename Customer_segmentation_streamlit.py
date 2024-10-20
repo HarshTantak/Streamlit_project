@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 st.title("Welcome to my First streamlit app ")
 st.title("Customer Segmentation Analysis ")
